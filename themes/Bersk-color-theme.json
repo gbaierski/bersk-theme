@@ -78,7 +78,7 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.activeBackground": "#2e363a",
 
-		"panel.border": "#1c1d1d",
+		"panel.border": "#2e363a",
 		"panelTitle.activeForeground": "#1BE7A3",
 		"panelTitle.activeBorder": "#1BE7A3",
 		"panelTitle.inactiveForeground": "#7c7c7c",
@@ -95,6 +95,7 @@
 
 		"sideBar.background": "#1c1d1d",
 		"sideBarSectionHeader.background": "#292D31",
+		"sideBar.border": "#2e363a",
 
 		"gitDecoration.modifiedResourceForeground": "#FF7D4A",
 		"gitDecoration.renamedResourceForeground": "#FF7D4A",
@@ -105,7 +106,7 @@
 
 
 
-		
+
 		"settings.focusedRowBackground": "#4143395A",
 		"ports.iconRunningProcessForeground": "#ccccc7",
 		"pickerGroup.foreground": "#63755e",
@@ -567,6 +568,16 @@
 			],
 			"settings": {
 				"foreground": "#ecc18f"
+			}
+		},
+		{
+			"name": "entity.other.attribute-name.pseudo-class.css",
+			"scope": [
+				"entity.other.attribute-name.pseudo-class.css"
+			],
+			"settings": {
+				"fontStyle": "italic bold underline",
+				"foreground": "#76fff4"
 			}
 		}
 	],
