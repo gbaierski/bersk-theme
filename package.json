@@ -1,8 +1,22 @@
 {
   "name": "bersk",
   "displayName": "Bersk",
-  "description": "Bersk's theme for VS Code!",
-  "version": "0.0.1",
+  "description": "(Gustavo J. Baierski) - Bersk's theme for VS Code!",
+  "version": "1.0.0",
+  "publisher": "Bersk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbaierski/bersk-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "bersk",
+    "gustavo",
+    "baierski",
+    "bersk dark",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
