@@ -29,24 +29,5 @@
 ### C# Example
 ![C# Example](./assets/csharp-example.png)
 
-### Latest Update (EN)
-
-The latest update addressed some issues:
-
-- When using `CTRL + F` to search for comments in the code, the comment text was not readable due to color adjustments.
-- Selected text in the Source Control input was not visible; contrast was slightly improved.
-- Comments are now slightly lighter for easier readability.
-- File selection in the sidebar menu previously had a very light color, which has been adjusted to be slightly darker.
-
-### Última Atualização (PT)
-
-A última atualização abordou alguns problemas:
-
-- Ao usar `CTRL + F` para buscar comentários no código, o texto do comentário não era legível devido a ajustes de cor.
-- O texto selecionado no input da aba Source Control não era visível; o contraste foi levemente melhorado.
-- Os comentários agora estão um pouco mais claros para facilitar a leitura.
-- A seleção de arquivos no menu lateral anteriormente tinha uma cor muito clara, que foi ajustada para ficar ligeiramente mais escura.
-
-
 ## Installation
 You can install the Bersk Dark Theme directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Bersk.bersk&ssr=false#overview). Don't forget to leave a review if you enjoy using the theme!

@@ -16,7 +16,14 @@
     "gustavo",
     "baierski",
     "bersk dark",
-    "dark"
+    "dark",
+    "vue",
+    "php",
+    "C#",
+    "python",
+    "cool",
+    "chill",
+    "code"
   ],
   "engines": {
     "vscode": "^1.77.0"
